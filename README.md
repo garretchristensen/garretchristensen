@@ -20,4 +20,4 @@ Currently a Senior Research Economist at the FDIC; previously at the U.S. Census
 
 [Website](https://www.ocf.berkeley.edu/~garret) · [CV](https://www.ocf.berkeley.edu/~garret/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/garretchristensen/)
 
-Also: 100+ ultramarathons.
+Also: I've run [115+ ultramarathons](https://ultrasignup.com/results_participant.aspx?fname=Garret&lname=Christensen).
