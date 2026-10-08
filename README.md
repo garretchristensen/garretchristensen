@@ -16,7 +16,7 @@ Currently a Senior Research Economist at the FDIC; previously at the U.S. Census
 - [Transparent and Reproducible Social Science Research](https://www.ucpress.edu/book/9780520296954/transparent-and-reproducible-social-science-research) (UC Press, 2019)
 - [SNAP purchasing power map](http://garretchristensen.shinyapps.io/Food_Price_Maps) (R Shiny)
 
-**Tools:** Stata, R, SQL, Git, LaTeX, if I have to even SAS. Love coding but using Claude Code to step up my game.
+**Tools:** Stata, R, SQL, Git, LaTeX, and SAS if I have to. Learning Python. Building analysis pipelines with Claude Code.
 
 [Website](https://www.ocf.berkeley.edu/~garret) · [CV](https://www.ocf.berkeley.edu/~garret/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/garretchristensen/)
 
